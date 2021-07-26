@@ -4,6 +4,6 @@ import "ServerWiki/cmd"
 
 func main() {
 
-cmd.
+  cmd.ActiveServer()
 
 }
